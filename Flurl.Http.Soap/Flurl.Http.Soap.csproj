@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <Authors>Miles Flavel</Authors>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/milesflavel/Flurl.Http.Soap</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flurl.Http" Version="3.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KlrHLHeps5Hi7WTOfXISqzDQ3lPOV5Xs5k6ltLPkMhgDNCHIOLoRY/OLqDNPb4O6hOCtPBR0uW9KuQsJ+h03Wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MilesFlavel\\Projects\\Flurl.Http.Soap\\Flurl.Http.Soap\\Flurl.Http.Soap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\flurl\\3.0.0\\flurl.3.0.0.nupkg.sha512",
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\flurl.http\\3.0.0\\flurl.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\MilesFlavel\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
