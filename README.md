@@ -1,4 +1,4 @@
-![Icon](https://raw.githubusercontent.com/milesflavel/Flurl.Http.Soap/master/assets/noun_soap_3664421.png)
+![Icon](https://raw.githubusercontent.com/milesflavel/Flurl.Http.Soap/master/assets/noun_soap_3664421.png?1)
 # Flurl.Http.Soap
 Very basic extension for [Flurl](https://github.com/tmenier/Flurl) to support the SOAP protocol
 
