@@ -1,9 +1,0 @@
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\bin\Release\netstandard2.0\Flurl.Http.Soap.deps.json
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\bin\Release\netstandard2.0\Flurl.Http.Soap.dll
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\bin\Release\netstandard2.0\Flurl.Http.Soap.pdb
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\obj\Release\netstandard2.0\Flurl.Http.Soap.csproj.AssemblyReference.cache
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\obj\Release\netstandard2.0\Flurl.Http.Soap.AssemblyInfoInputs.cache
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\obj\Release\netstandard2.0\Flurl.Http.Soap.AssemblyInfo.cs
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\obj\Release\netstandard2.0\Flurl.Http.Soap.csproj.CoreCompileInputs.cache
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\obj\Release\netstandard2.0\Flurl.Http.Soap.dll
-C:\Users\MilesFlavel\Projects\Flurl.Http.Soap\Flurl.Http.Soap\obj\Release\netstandard2.0\Flurl.Http.Soap.pdb
