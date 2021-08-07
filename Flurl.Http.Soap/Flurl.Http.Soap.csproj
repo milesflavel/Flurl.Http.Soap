@@ -6,19 +6,26 @@
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/milesflavel/Flurl.Http.Soap</RepositoryUrl>
     <PackageProjectUrl>https://github.com/milesflavel/Flurl.Http.Soap</PackageProjectUrl>
-    <PackageIcon>../assets/noun_soap_3664421.png</PackageIcon>
+    <PackageIcon>assets/noun_soap_3664421.png</PackageIcon>
     <PackageTags>Flurl;Http;Soap</PackageTags>
-    <PackageLicenseFile>https://github.com/milesflavel/Flurl.Http.Soap/blob/master/LICENSE</PackageLicenseFile>
+    <PackageLicenseFile>assets/LICENSE</PackageLicenseFile>
     <Description>SOAP extensions and wrapper for Flurl.Http</Description>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <Copyright>Copyright 2021 by Miles Flavel. All rights reserved.</Copyright>
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <Version>0.1.0</Version>
+    <PackageReadmeFile>assets/README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Flurl.Http" Version="3.0.0" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <None Include="..\LICENSE" Pack="true" PackagePath="assets" />
+    <None Include="..\assets\noun_soap_3664421.png" Pack="true" PackagePath="assets" />
+    <None Include="..\README.md" Pack="true" PackagePath="assets" />
   </ItemGroup>
 
 </Project>
