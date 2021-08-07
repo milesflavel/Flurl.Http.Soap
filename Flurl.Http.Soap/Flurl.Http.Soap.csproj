@@ -1,10 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <TargetFrameworks>netstandard2.0;netstandard2.1;net461;net472</TargetFrameworks>
     <Authors>Miles Flavel</Authors>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/milesflavel/Flurl.Http.Soap</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/milesflavel/Flurl.Http.Soap</PackageProjectUrl>
+    <PackageIcon>../assets/noun_soap_3664421.png</PackageIcon>
+    <PackageTags>Flurl;Http;Soap</PackageTags>
+    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <FileVersion>0.1.0</FileVersion>
+    <PackageLicenseFile>https://github.com/milesflavel/Flurl.Http.Soap/blob/master/LICENSE</PackageLicenseFile>
+    <Description>SOAP extensions and wrapper for Flurl.Http</Description>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
+    <Copyright>Copyright 2021 by Miles Flavel. All rights reserved.</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
