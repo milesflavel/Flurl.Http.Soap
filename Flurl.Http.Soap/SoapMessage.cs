@@ -8,7 +8,6 @@ namespace Flurl.Http.Soap
     /// <summary>
     /// Represents a SOAP Envelope and provides methods to parse raw XML input.
     /// </summary>
-    /// <typeparam name="T"></typeparam>
     public class SoapEnvelope<T>
     {
         public SoapEnvelope(string xml)
@@ -62,19 +61,17 @@ namespace Flurl.Http.Soap
         }
     }
 
-    // TODO: Add support for SOAP Header
     /// <summary>
     /// Represents the SOAP Header
     /// </summary>
     public class SoapHeader
     {
-
+        // TODO: Add support for SOAP Header
     }
 
     /// <summary>
     /// Represents the SOAP Body as a wrapped POCO class.
     /// </summary>
-    /// <typeparam name="T"></typeparam>
     public class SoapBody<T>
     {
         public SoapBody (T value)
@@ -84,9 +81,17 @@ namespace Flurl.Http.Soap
 
         private T _value;
 
+        /// <summary>
+        /// Retrieve the internal value of <see cref="SoapBody{T}"/> as <typeparamref name="T"/>.
+        /// </summary>
         public T GetValue()
         {
             return _value;
         }
+
+        /// <summary>
+        /// Implicitly retrieve the internal value of <paramref name="soapBody"/> as type <typeparamref name="T"/>.
+        /// </summary>
+        public static implicit operator T(SoapBody<T> soapBody) => soapBody.GetValue();
     }
 }
